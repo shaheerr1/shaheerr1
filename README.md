@@ -7,7 +7,7 @@ Building practical AI systems and clean, modern product experiences.
 - 💻 Focus: ML engineering, real-time data systems, and product-grade apps
 - 🧠 Interests: Responsible AI, cybersecurity, CV/NLP, and interactive UI/UX
 - 🌍 Based in London, UK
-- 📫 Reach me: YOUR_EMAIL | LinkedIn: YOUR_LINKEDIN | Portfolio: YOUR_PORTFOLIO
+- 📫 Reach me: shaheer.aslam@icloud.com
 
 ---
 
@@ -137,15 +137,5 @@ Building practical AI systems and clean, modern product experiences.
 - Model serving and production ML patterns
 - Building tools that feel premium (UI + performance + reliability)
 
----
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerr1&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerr1&layout=compact)
 
----
-
-## Let’s connect
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
