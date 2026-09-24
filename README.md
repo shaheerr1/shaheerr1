@@ -2,7 +2,7 @@
 
 Software engineer working across TypeScript/React front ends and Python backends, with a focus on AI systems that hold up outside a notebook. MSc Applied Artificial Intelligence at London South Bank University. Based in London.
 
-[Portfolio](https://shaheeraslam.net) · shaheer.aslam@icloud.com
+[Portfolio](www.shaheeraslam.net) · shaheer.aslam@icloud.com
 
 ---
 
