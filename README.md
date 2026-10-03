@@ -1,6 +1,6 @@
 # Shaheer Aslam
 
-Software engineer working across TypeScript/React front ends and Python backends, with a focus on AI systems that hold up outside a notebook. MSc Applied Artificial Intelligence at London South Bank University. Based in London.
+Software engineer building React and Next.js front ends and Python back ends, with a focus on AI systems that hold up outside a notebook. MSc Applied Artificial Intelligence at London South Bank University. Based in London.
 
 [Portfolio](https://www.shaheeraslam.net) · [shaheer.aslam@icloud.com](mailto:shaheer.aslam@icloud.com)
 
@@ -14,19 +14,19 @@ A DeBERTa classifier that identifies unsafe execution, loops and hallucination f
 
 `Python` `PyTorch` `DeBERTa` `FastAPI`
 
-**[ChurnRadar](https://github.com/shaheerr1/YOUR-REPO)** · Deployed churn prediction service
+**ChurnRadar** · Deployed churn prediction service · [Live](https://churnradar-nu.vercel.app)
 
 XGBoost model at 84.5% accuracy across 7,043 telecom records, with SHAP explanations surfacing the drivers behind every risk score. Served in under 3 seconds through a FastAPI backend and a React/TypeScript dashboard.
 
 `Python` `XGBoost` `SHAP` `FastAPI` `React` `TypeScript`
 
-**[LeadFlow](https://github.com/shaheerr1/YOUR-REPO)** · Multi-agent outreach pipeline
+**LeadFlow** · Multi-agent outreach pipeline
 
 End-to-end lead discovery, tailored email generation and follow-up scheduling on GPT-4o and LangChain. Produces 5 to 10 qualified leads per run with personalised emails in 1 to 2 seconds, dispatched through the Gmail API behind a human review queue.
 
 `Python` `LangChain` `FastAPI`
 
-**[Quant Mania](https://github.com/shaheerr1/YOUR-REPO)** · Real-time crypto data pipeline
+**Quant Mania** · Real-time crypto data pipeline
 
 Sub-second streaming pipeline running ML anomaly and volatility detection, with Prometheus, Grafana and Loki for monitoring.
 
@@ -36,12 +36,14 @@ Sub-second streaming pipeline running ML anomaly and volatility detection, with 
 
 ## Stack
 
-**Languages** TypeScript, Python, SQL, Swift, Dart
+**Languages** TypeScript, JavaScript, HTML, CSS, Python, SQL, Swift, Dart
 
-**Frontend** React, Next.js, Tailwind, SwiftUI, Flutter
+**Frontend** React, Next.js, SCSS with BEM, Tailwind, SwiftUI, Flutter
+
+**Testing and tooling** Jest, React Testing Library, ESLint, Stylelint, Git, GitHub Actions, Vercel
 
 **Backend and data** FastAPI, Node, PostgreSQL, Redis, MongoDB, Firebase, Kafka, Flink, Airflow
 
 **ML and AI** PyTorch, XGBoost, scikit-learn, LangChain, LangGraph, RAG, Hugging Face
 
-**Infra** Docker, GitHub Actions, AWS, GCP, Nginx, Prometheus, Grafana, Linux
+**Infra** Docker, AWS, GCP, Nginx, Prometheus, Grafana, Linux
